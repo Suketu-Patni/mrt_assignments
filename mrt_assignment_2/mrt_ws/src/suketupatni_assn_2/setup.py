@@ -20,10 +20,11 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        	'talker1 = suketupatni_assn_2.d_rover1:main',
-        	'talker2 = suketupatni_assn_2.d_rover2:main',
-        	'talker3 = suketupatni_assn_2.d_rover3:main',
-        	'listener = suketupatni_assn_2.basestation:main',
+        	'd_rover1 = suketupatni_assn_2.d_rover1:main',
+        	'd_rover2 = suketupatni_assn_2.d_rover2:main',
+        	'd_rover3 = suketupatni_assn_2.d_rover3:main',
+        	'd_rover4 = suketupatni_assn_2.d_rover4:main',
+        	'basestation = suketupatni_assn_2.basestation:main',
         ],
     },
 )

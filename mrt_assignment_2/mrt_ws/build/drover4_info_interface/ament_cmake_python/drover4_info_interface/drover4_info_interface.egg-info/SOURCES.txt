@@ -1,0 +1,8 @@
+setup.py
+drover4_info_interface/__init__.py
+drover4_info_interface.egg-info/PKG-INFO
+drover4_info_interface.egg-info/SOURCES.txt
+drover4_info_interface.egg-info/dependency_links.txt
+drover4_info_interface.egg-info/top_level.txt
+drover4_info_interface/msg/__init__.py
+drover4_info_interface/msg/_d_rover4_info.py

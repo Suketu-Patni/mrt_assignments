@@ -1,0 +1,4 @@
+int32 rover_id
+float32 battery_level
+geometry_msgs/Pose current_location
+string health_status

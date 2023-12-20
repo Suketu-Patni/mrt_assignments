@@ -1,0 +1,7 @@
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+  File "/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2/d_rover4.py", line 43
+    main()x`
+          ^
+SyntaxError: invalid syntax
+
