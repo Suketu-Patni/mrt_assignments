@@ -1,0 +1,36 @@
+running egg_info
+writing ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/PKG-INFO
+writing dependency_links to ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/dependency_links.txt
+writing entry points to ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/entry_points.txt
+writing requirements to ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/requires.txt
+writing top-level names to ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/top_level.txt
+reading manifest file '../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/SOURCES.txt'
+writing manifest file '../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying suketupatni_assn_2/d_rover2.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2
+copying suketupatni_assn_2/d_rover1.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2
+copying suketupatni_assn_2/d_rover4.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2
+copying suketupatni_assn_2/d_rover3.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2
+copying suketupatni_assn_2/basestation.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2
+running install
+running install_lib
+copying /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2/d_rover2.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2
+copying /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2/d_rover1.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2
+copying /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2/d_rover4.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2
+copying /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2/d_rover3.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2
+copying /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/build/lib/suketupatni_assn_2/basestation.py -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2
+byte-compiling /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2/d_rover2.py to d_rover2.cpython-310.pyc
+byte-compiling /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2/d_rover1.py to d_rover1.cpython-310.pyc
+byte-compiling /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2/d_rover4.py to d_rover4.cpython-310.pyc
+byte-compiling /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2/d_rover3.py to d_rover3.cpython-310.pyc
+byte-compiling /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2/basestation.py to basestation.cpython-310.pyc
+running install_data
+copying package.xml -> /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/share/suketupatni_assn_2
+running install_egg_info
+removing '/home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info to /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/python3.10/site-packages/suketupatni_assn_2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/suketupatni_assn_2
+Installing talker script to /home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/install/suketupatni_assn_2/lib/suketupatni_assn_2
+writing list of installed files to '/home/suketupatni/Desktop/mrt_assignment_2/mrt_ws/build/suketupatni_assn_2/install.log'

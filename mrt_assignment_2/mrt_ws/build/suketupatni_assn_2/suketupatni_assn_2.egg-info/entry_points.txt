@@ -1,0 +1,6 @@
+[console_scripts]
+listener = suketupatni_assn_2.basestation:main
+talker1 = suketupatni_assn_2.d_rover1:main
+talker2 = suketupatni_assn_2.d_rover2:main
+talker3 = suketupatni_assn_2.d_rover3:main
+
