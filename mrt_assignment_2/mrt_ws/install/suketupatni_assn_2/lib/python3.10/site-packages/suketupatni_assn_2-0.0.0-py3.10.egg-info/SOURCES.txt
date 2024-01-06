@@ -8,6 +8,7 @@ setup.py
 ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/requires.txt
 ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/top_level.txt
 ../../build/suketupatni_assn_2/suketupatni_assn_2.egg-info/zip-safe
+launch/my_launch.launch.py
 resource/suketupatni_assn_2
 suketupatni_assn_2/__init__.py
 suketupatni_assn_2/basestation.py
