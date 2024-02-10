@@ -1,0 +1,4 @@
+[console_scripts]
+camera_guy = suketupatni_assn_3.camera_publisher:main
+img_processor = suketupatni_assn_3.image_processor:main
+

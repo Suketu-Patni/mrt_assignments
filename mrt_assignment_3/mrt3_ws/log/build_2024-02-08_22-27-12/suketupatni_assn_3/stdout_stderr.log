@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/PKG-INFO
+writing dependency_links to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/dependency_links.txt
+writing entry points to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/entry_points.txt
+writing requirements to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/requires.txt
+writing top-level names to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/top_level.txt
+reading manifest file '../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/SOURCES.txt'
+running build
+running build_py
+copying suketupatni_assn_3/camera_publisher.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/build/lib/suketupatni_assn_3
+running install
+running install_lib
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+copying /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/build/lib/suketupatni_assn_3/camera_publisher.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3
+byte-compiling /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3/camera_publisher.py to camera_publisher.cpython-310.pyc
+running install_data
+copying package.xml -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/share/suketupatni_assn_3
+running install_egg_info
+removing '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_guy script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/suketupatni_assn_3
+writing list of installed files to '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/install.log'

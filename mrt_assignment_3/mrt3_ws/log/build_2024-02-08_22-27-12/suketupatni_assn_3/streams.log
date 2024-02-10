@@ -1,0 +1,28 @@
+[0.377s] Invoking command in '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/src/suketupatni_assn_3': PYTHONPATH=/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/prefix_override:/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/suketupatni_assn_3 build --build-base /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/build install --record /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/install.log --single-version-externally-managed
+[0.507s] running egg_info
+[0.507s] writing ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/PKG-INFO
+[0.507s] writing dependency_links to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/dependency_links.txt
+[0.507s] writing entry points to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/entry_points.txt
+[0.507s] writing requirements to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/requires.txt
+[0.507s] writing top-level names to ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/top_level.txt
+[0.508s] reading manifest file '../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/SOURCES.txt'
+[0.508s] adding license file 'LICENSE'
+[0.509s] writing manifest file '../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info/SOURCES.txt'
+[0.509s] running build
+[0.509s] running build_py
+[0.509s] copying suketupatni_assn_3/camera_publisher.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/build/lib/suketupatni_assn_3
+[0.509s] running install
+[0.510s] running install_lib
+[0.510s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.510s]   warnings.warn(
+[0.510s] copying /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/build/lib/suketupatni_assn_3/camera_publisher.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3
+[0.510s] byte-compiling /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3/camera_publisher.py to camera_publisher.cpython-310.pyc
+[0.511s] running install_data
+[0.511s] copying package.xml -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/share/suketupatni_assn_3
+[0.511s] running install_egg_info
+[0.512s] removing '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3-0.0.0-py3.10.egg-info' (and everything under it)
+[0.512s] Copying ../../build/suketupatni_assn_3/suketupatni_assn_3.egg-info to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages/suketupatni_assn_3-0.0.0-py3.10.egg-info
+[0.513s] running install_scripts
+[0.524s] Installing camera_guy script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/suketupatni_assn_3
+[0.524s] writing list of installed files to '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/install.log'
+[0.538s] Invoked command in '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/src/suketupatni_assn_3' returned '0': PYTHONPATH=/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/prefix_override:/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/install/suketupatni_assn_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/suketupatni_assn_3 build --build-base /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/build install --record /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_3/mrt3_ws/build/suketupatni_assn_3/install.log --single-version-externally-managed
