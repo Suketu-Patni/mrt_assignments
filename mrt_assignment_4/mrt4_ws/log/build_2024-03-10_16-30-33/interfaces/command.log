@@ -1,0 +1,2 @@
+Invoking command in '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/interfaces -- -j20 -l20
+Invoked command in '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/interfaces' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/interfaces -- -j20 -l20

@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/Path.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct Path_Request {
+      sequence<int32> bounding_boxes;
+    };
+    struct Path_Response {
+      sequence<int32> path;
+    };
+  };
+};

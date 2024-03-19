@@ -1,0 +1,26 @@
+[0.479s] Invoking command in '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/src/suketupatni_assn_4': PYTHONPATH=/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/prefix_override:/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/suketupatni_assn_4 build --build-base /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build install --record /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/install.log --single-version-externally-managed
+[0.639s] running egg_info
+[0.639s] writing ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/PKG-INFO
+[0.639s] writing dependency_links to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/dependency_links.txt
+[0.640s] writing entry points to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/entry_points.txt
+[0.640s] writing requirements to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/requires.txt
+[0.640s] writing top-level names to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/top_level.txt
+[0.641s] reading manifest file '../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/SOURCES.txt'
+[0.641s] adding license file 'LICENSE'
+[0.641s] writing manifest file '../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/SOURCES.txt'
+[0.641s] running build
+[0.641s] running build_py
+[0.641s] copying suketupatni_assn_4/client.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4
+[0.641s] running install
+[0.641s] running install_lib
+[0.642s] copying /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4/client.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4
+[0.642s] byte-compiling /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4/client.py to client.cpython-310.pyc
+[0.643s] running install_data
+[0.643s] running install_egg_info
+[0.644s] removing '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4-0.0.0-py3.10.egg-info' (and everything under it)
+[0.645s] Copying ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4-0.0.0-py3.10.egg-info
+[0.645s] running install_scripts
+[0.658s] Installing client script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/suketupatni_assn_4
+[0.658s] Installing service1 script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/suketupatni_assn_4
+[0.658s] writing list of installed files to '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/install.log'
+[0.673s] Invoked command in '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/src/suketupatni_assn_4' returned '0': PYTHONPATH=/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/prefix_override:/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/suketupatni_assn_4 build --build-base /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build install --record /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/install.log --single-version-externally-managed

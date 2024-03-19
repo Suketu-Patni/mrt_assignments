@@ -1,0 +1,13 @@
+[  2%] Built target interfaces__cpp
+[  5%] [32mBuilding C object CMakeFiles/interfaces__rosidl_generator_c.dir/rosidl_generator_c/interfaces/srv/detail/bounding_boxes__functions.c.o[0m
+[  5%] Built target ament_cmake_python_copy_interfaces
+[  7%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interfaces/srv/bounding_boxes__type_support.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/srv/detail/bounding_boxes__type_support.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interfaces/srv/detail/dds_fastrtps/bounding_boxes__type_support.cpp.o[0m
+running egg_info
+writing interfaces.egg-info/PKG-INFO
+writing dependency_links to interfaces.egg-info/dependency_links.txt
+writing top-level names to interfaces.egg-info/top_level.txt
+reading manifest file 'interfaces.egg-info/SOURCES.txt'
+writing manifest file 'interfaces.egg-info/SOURCES.txt'
+[ 12%] Built target ament_cmake_python_build_interfaces_egg

@@ -1,0 +1,31 @@
+running egg_info
+writing ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/PKG-INFO
+writing dependency_links to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/dependency_links.txt
+writing entry points to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/entry_points.txt
+writing requirements to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/requires.txt
+writing top-level names to ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/top_level.txt
+reading manifest file '../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info/SOURCES.txt'
+running build
+running build_py
+copying suketupatni_assn_4/aruco_detector.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4
+copying suketupatni_assn_4/pathfinder.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4
+copying suketupatni_assn_4/client.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4
+running install
+running install_lib
+copying /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4/aruco_detector.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4
+copying /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4/pathfinder.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4
+copying /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/build/lib/suketupatni_assn_4/client.py -> /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4
+byte-compiling /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4/aruco_detector.py to aruco_detector.cpython-310.pyc
+byte-compiling /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4/pathfinder.py to pathfinder.cpython-310.pyc
+byte-compiling /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4/client.py to client.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/suketupatni_assn_4/suketupatni_assn_4.egg-info to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/python3.10/site-packages/suketupatni_assn_4-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/suketupatni_assn_4
+Installing service1 script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/suketupatni_assn_4
+Installing service2 script to /home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/install/suketupatni_assn_4/lib/suketupatni_assn_4
+writing list of installed files to '/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/build/suketupatni_assn_4/install.log'

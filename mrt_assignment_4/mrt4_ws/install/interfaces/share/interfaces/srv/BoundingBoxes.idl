@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/BoundingBoxes.srv
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/Image.idl"
+
+module interfaces {
+  module srv {
+    struct BoundingBoxes_Request {
+      sensor_msgs::msg::Image img;
+    };
+    struct BoundingBoxes_Response {
+      sequence<int32> bounding_boxes;
+
+      sequence<int32> aruco_ids;
+    };
+  };
+};

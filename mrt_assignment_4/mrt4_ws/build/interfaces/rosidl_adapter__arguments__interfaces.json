@@ -1,0 +1,7 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/src/interfaces:srv/Path.srv",
+    "/home/suketupatni/Desktop/mrt_assignments/mrt_assignment_4/mrt4_ws/src/interfaces:srv/BoundingBoxes.srv"
+  ]
+}

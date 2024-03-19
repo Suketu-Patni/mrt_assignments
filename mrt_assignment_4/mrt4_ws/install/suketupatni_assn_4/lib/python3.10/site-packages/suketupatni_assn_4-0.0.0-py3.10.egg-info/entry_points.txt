@@ -1,0 +1,5 @@
+[console_scripts]
+client = suketupatni_assn_4.client:main
+service1 = suketupatni_assn_4.aruco_detector:main
+service2 = suketupatni_assn_4.pathfinder:main
+
