@@ -1,0 +1,9 @@
+link_0 main cuboid chassis
+link_0_0 rotating part of arm connected to link_0
+link_0_0_clone horizontal part of arm connected to link_0_0
+link_1 downwards part of arm connected to link_0_0_clone
+link_1_clone right back wheel
+link_1_clone_clone right front wheel 
+link_1_clone_clone_0 left front wheel
+link_1_clone_clone_1 left back wheel
+link_2 gripper

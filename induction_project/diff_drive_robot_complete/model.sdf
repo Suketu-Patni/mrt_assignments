@@ -14,7 +14,7 @@
         </inertia>
         <pose>0 0 0 0 -0 0</pose>
       </inertial>
-      <pose>-0 -0 0.39 0 -0 0</pose>
+      <pose>0 0 0.39 0 -0 0</pose>
       <gravity>1</gravity>
       <self_collide>0</self_collide>
       <kinematic>0</kinematic>
@@ -906,6 +906,7 @@
             <ixz>0</ixz>
             <iyz>0</iyz>
           </inertia>
+          <pose>0 0 0 0 -0 0</pose>
         </inertial>
         <collision name='collision'>
           <geometry>
@@ -913,6 +914,19 @@
               <size>0.1 0.1 0.1</size>
             </box>
           </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
         </collision>
         <visual name='visual'>
           <geometry>
@@ -937,12 +951,32 @@
           <update_rate>30</update_rate>
           <visualize>1</visualize>
         </sensor>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
       </link>
-      <pose>-0.038894 0.363213 0.651813 0 0 0</pose>
+      <pose>-0.038894 0.610703 1.14346 0 -0 0</pose>
     </model>
     <joint name='link_0_0_JOINT_2' type='fixed'>
       <parent>link_0_0</parent>
       <child>link_0_0_clone</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='link_0_0_clone_JOINT_1' type='fixed'>
+      <parent>link_0_0_clone</parent>
+      <child>depth_camera::link</child>
       <pose>0 0 0 0 -0 0</pose>
       <physics>
         <ode>
@@ -1008,23 +1042,6 @@
           <friction>0</friction>
         </dynamics>
       </axis>
-      <physics>
-        <ode>
-          <limit>
-            <cfm>0</cfm>
-            <erp>0.2</erp>
-          </limit>
-          <suspension>
-            <cfm>0</cfm>
-            <erp>0.2</erp>
-          </suspension>
-        </ode>
-      </physics>
-    </joint>
-    <joint name='link_0_JOINT_1' type='fixed'>
-      <parent>link_0</parent>
-      <child>depth_camera::link</child>
-      <pose>0 0 0 0 -0 0</pose>
       <physics>
         <ode>
           <limit>
